@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Objectif pédagogique
+## 1. Objectif 
 L'objectif de ce laboratoire est de réaliser une application Android autonome intégrant une base de données embarquée SQLite. L'application permet d'assurer le stockage local et la persistance des données relatives aux étudiants. Elle met en œuvre le schéma classique du cycle CRUD (création, recherche, affichage et suppression) entièrement hors-ligne, directement sur le support de stockage du périphérique mobile, à travers une architecture applicative propre et structurée en couches.
 
 ---
@@ -13,10 +13,10 @@ L'objectif de ce laboratoire est de réaliser une application Android autonome i
 
 ### Captures d'écran de l'exécution du projet
 
-| Ajout d'étudiant | Recherche d'étudiant | Suppression locale |
-| :---: | :---: | :---: |
-| ![Ajout et Validation](img-lab15-dev/1.png) | ![Recherche par ID](img-lab15-dev/2.png) | ![Suppression et Nettoyage](img-lab15-dev/3.png) |
-| Formulaire d'insertion de l'étudiant avec affichage de la notification de confirmation d'ajout | Saisie de l'identifiant recherché pour extraire et afficher dynamiquement le nom et le prénom | Suppression immédiate de la ligne sélectionnée avec effichage d'état et mise à jour de la liste |
+| Lapplication  | Ajout d'étudiant et Recherche d'étudiant | 
+| :---: | :---: |
+| ![Ajout et Validation](img-lab15-dev/0.png) | ![Recherche par ID](img-lab15-dev/1.png) | 
+
 
 ---
 
@@ -47,10 +47,6 @@ L'interface graphique est agencée verticalement dans un modèle de conteneur li
 
 ---
 
-## 5. Compétences acquises
-* **Gestion autonome de la persistance :** Initialisation et manipulation de bases de données relationnelles locales embarquées sous Android sans faire appel à des serveurs distants.
-* **Structuration et découplage :** Conception d'applications mobiles scindées en couches étanches séparant l'interface graphique du moteur persistant de données.
-* **Résilience logicielle :** Intégration de vérifications d'entrées préventives pour éliminer les risques de plantages lors de requêtes infructueuses ou vides.
 
----
-**Rapport de TP - 2026**
+
+
