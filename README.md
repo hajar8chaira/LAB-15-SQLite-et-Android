@@ -21,10 +21,9 @@ L'objectif de ce laboratoire est de réaliser une application Android autonome i
 ---
 
 ## 3. Démonstration Vidéo
-La vidéo ci-dessous présente le fonctionnement de l'application en temps réel : l'ajout d'étudiants via le formulaire, la recherche instantanée de leurs fiches par identifiant unique et la suppression réussie des enregistrements de la base de données SQLite locale.
 
-<video src="img-lab15-dev/video.mp4" controls="controls" style="max-width: 100%;">
-</video>
+[<video src="img-lab15-dev/video.mp4" controls="controls" style="max-width: 100%;">
+</video>](https://github.com/user-attachments/assets/d34c4572-3b7d-4900-b985-3d63aad4b025)
 
 ---
 
